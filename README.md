@@ -1,6 +1,7 @@
-## Your Name
+## Julie Cheng
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+A self-motivated software engineer 
 
 ## Skills
 
@@ -23,33 +24,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2019 - Febuary 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- TDD, OOP
+- MVC
+- Pair programming
+- Ruby, Rails, JavaScript, Sinatra, PostgreSQL
+- Agile sprint planning
+- Git workflow
 - RSpec, Jasmine
+- CI/CD
 
-#### Your University / College (start_date to end_date)
+#### University of Leeds (September 2017 - September 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA Fashion Enterprise and Society
+- First class dissertation on green marketing and brand loyalty research
+- Degree of Master of Arts with Merit
 
-#### Any other qualifications
+#### Certification 
 
-That in some arguable way make you a better software developer or well-rounded person
+- Google Ads Search Certification
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**NabiLondon** (April 2019 - October 2019)    
+*Sales Representative*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Sanyukta Shrestha** (October 2018 - January 2019)   
+*Studio and Marketing Assistant (Internship)*  
 - Any experience relevent to software development
 
-## Hobbies
+## Hobbies and Interests
 
 Any cool stuff that makes you a super part of a software development team
+- Boxing 
