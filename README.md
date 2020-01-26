@@ -1,7 +1,11 @@
 ## Julie Cheng
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | LinkedIn(https://www.linkedin.com/in/julie-cheng-3b7613b6/) | Blog
+
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 A self-motivated software engineer 
+
+## Projects
 
 ## Skills
 
