@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/julie-cheng-3b7613b6/) | Blog
 
-A goal-driving, self-motivated software engineer recently graduated from Makers Academy. My background in fashion marketing has equipped me with problem-solving and communication skills, as well as thinking creatively. I am a fast learner and an excellent team player. 
+A goal-driven, self-motivated software engineer recently graduated from Makers Academy. My background in fashion marketing has equipped me with problem-solving and communication skills, as well as thinking creatively. I am a fast learner and an excellent team player. 
 
 Jumping into technology has been the most exciting but challenging decision of my journey. After working in marketing and retail, I wanted to break out of my comfort zone and learn something new. Being a software developer combines all my passions: constantly learning and always challenging myself, designing and building features/products on online platforms, and working with people. I would love to work in a supportive environment where I can push myself to the next level.
 
