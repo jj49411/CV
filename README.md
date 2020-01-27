@@ -1,9 +1,10 @@
 ## Julie Cheng
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | LinkedIn(https://www.linkedin.com/in/julie-cheng-3b7613b6/) | Blog
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/julie-cheng-3b7613b6/) | Blog
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
-A self-motivated software engineer 
+A goal-driving, self-motivated software engineer recently graduated from Makers Academy. My background in fashion marketing has equipped me with problem-solving and communication skills, as well as thinking creatively. I am a fast learner and an excellent team player. 
+
+Jumping into technology has been the most exciting but challenging decision of my journey. After working in marketing and retail, I wanted to break out of my comfort zone and learn something new. Being a software developer combines all my passions: constantly learning and always challenging myself, designing and building features/products on online platforms, and working with people. I would love to work in a supportive environment where I can push myself to the next level.
 
 ## Projects
 
@@ -11,13 +12,13 @@ A self-motivated software engineer
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Problem-solving
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Fast learner
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,12 +27,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+#### Communication
+
 ## Education
 
 #### Makers Academy (October 2019 - Febuary 2020)
 
 - TDD, OOP
-- MVC
+- MVC framework patterns
 - Pair programming
 - Ruby, Rails, JavaScript, Sinatra, PostgreSQL
 - Agile sprint planning
@@ -61,5 +64,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
-- Boxing 
+- Boxing : I have been training for a year now, and it really boosts my physical strength and positive mindset
+- Yoga : To stretch out after a busy day and practice mindfulness meditation
+- Photography : Enjoying taking pictures as a record of my daily life
