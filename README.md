@@ -10,10 +10,10 @@ Jumping into technology has been the most exciting but challenging decision of m
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 | ------------ | ------- | ------- |------- |------- |
-| Recispeak | aa | 2 weeks | aa | aa |
-| AceBook | aa | 2 weeks | aa | aa |
-| Bank technical test | aa | 3 days | aa | aa |
-| Rock, paper, scissors | aa | 2 days | aa | aa |
+| [Recispeak](https://github.com/dbacall/Recispeak) | Final project at Makers. A mobile app that uses speech recognition to fetch recipes based on the ingredients filtered out from the recording. | 2 weeks | React Native, React Native Voice | Jest, Enzyme, Supernova Studio, Adobe XD, Circle CI, Code Climate, Rapid API, Spoonacular API (Named Entity Recognition & Search Recipes by Ingredients) |
+| [AceBook Luckerberg](https://github.com/Hyan18/acebook-luckerberg) | A team project of Facebook clone with strict client requirements, using Rails and Active Record. | 2 weeks | Ruby on Rails, HTML/CSS, Javascript(JQuery), PostgreSQL, Heroku | Rspec, Capybara, Travis CI |
+| [Bank Technical Test](https://github.com/jj49411/bank-tech-test) | A command line app that allows user to make deposits and withdrawals, and print bank statement. | 3 days | Javascript | Jasmine, Karma for test coverage, ESLint |
+| [Rock, Paper, Scissors](https://github.com/jj49411/rps-challenge) | A web-app that provides a "Rock, Paper, Scissors" game for the user to play against the computer. First web-app to test my understanding of MVC structure | 2 days | Ruby, Sinatra | Rspec |
 
 ## Skills
 
