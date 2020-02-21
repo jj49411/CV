@@ -1,6 +1,10 @@
 ## Julie Cheng
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/julie-cheng-3b7613b6/) | Blog
+  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julie-cheng-3b7613b6/)
+&nbsp;
+
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) 
 
 I am a goal-driven software engineer recently graduated from Makers Academy, a highly selective coding bootcamp. My background in fashion marketing has equipped me with problem-solving, creative-thinking and communication skills. 
 
