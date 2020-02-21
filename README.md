@@ -2,9 +2,7 @@
 
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julie-cheng-3b7613b6/)
-&nbsp;
-
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) 
+&nbsp;| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies-and-interests) 
 
 I am a goal-driven software engineer recently graduated from Makers Academy, a highly selective coding bootcamp. My background in fashion marketing has equipped me with problem-solving, creative-thinking and communication skills. 
 
@@ -66,13 +64,11 @@ Working in a team was definitely the most enjoyable part throughout Makers. I be
 
 **NabiLondon** (April 2019 - October 2019)    
 *Sales Representative*  
-- Any experience relevent to software development
 
 **Sanyukta Shrestha** (October 2018 - January 2019)   
 *Studio and Marketing Assistant (Internship)*  
-- Any experience relevent to software development
 
-## Hobbies and Interests
+## Hobbies
 
 - Boxing : I have been training for a year now, and it really boosts my physical strength and positive mindset
 - Yoga : To stretch out after a busy day and practice mindfulness meditation
