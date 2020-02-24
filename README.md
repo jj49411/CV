@@ -64,9 +64,16 @@ Working in a team was definitely the most enjoyable part throughout Makers. I be
 
 **NabiLondon** (April 2019 - October 2019)    
 *Sales Representative*  
+- Demonstrated powerful communication skills by efficiently guiding potential clients through the sales process.
+- Executed all presentations, ordering, inventory, sales, planning and delivering of products. 
+- Maintaining brand image and store sales goals.
 
 **Sanyukta Shrestha** (October 2018 - January 2019)   
 *Studio and Marketing Assistant (Internship)*  
+- Responsible for developing targeting and brand awareness strategies.
+- Participated in conducting market research, analyzing the results and drawing conclusions.
+- Supporting the in-house marketing and design team by coordinating and collating content.
+- Updating and maintaining the marketing department’s documentation and databases.
 
 ## Hobbies
 
