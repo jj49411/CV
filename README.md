@@ -1,4 +1,4 @@
-<h1 align='center'> Julie Cheng<h1>
+Julie Cheng
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julie-cheng)
 &nbsp;| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
