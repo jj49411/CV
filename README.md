@@ -3,7 +3,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/julie-cheng)
 &nbsp;| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Portfolio](https://julie-cheng.herokuapp.com/)
 
-I am a goal-driven **software engineer** recently graduated from [Makers Academy](https://makers.tech/), a highly selective coding bootcamp. My background in fashion marketing has equipped me with **problem-solving**, **creative-thinking** and **communication skills**. 
+I am a goal-driven **software engineer** recently graduated from [Makers Academy](https://makers.tech/), a highly selective coding bootcamp. My background in fashion marketing has equipped me with **problem-solving**, **creative-thinking** and **communication skills**. I have a strong passion for **UI/UX design** and always think from users’ perspectives and evaluate my actions that make a positive impact on those who use the product. 
 
 Jumping into technology has been the most exciting but challenging decision of my journey. After working in marketing and retail, I wanted to learn something new and break out of my comfort zone. Being a software developer combines all my passions: constantly learning, always challenging myself, designing useful products, and working with people. I would love to work in a supportive environment where I can add value and push myself to the next level.
 [Portfolio here](https://julie-cheng.herokuapp.com/)
