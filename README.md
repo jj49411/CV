@@ -4,9 +4,9 @@
 &nbsp;| [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Portfolio](https://julie-cheng.herokuapp.com/)
 
 I am a goal-driven full-stack software engineer, have a strong passion for UI/UX design and creative problem-solving. My background in marketing has equipped me with communication and organisational skills, which also applied to my coding experience.
+
 After Makers, I have been building applications with JavaScript, React, Node, Jest and Enzyme. I’m always thinking from users’ perspectives and evaluating my actions that make a positive impact on those who use the product. I’d love to carry on my journey with talented developers, share my knowledge and take up more technical challenges!
 
-Jumping into technology has been the most exciting but challenging decision of my journey. After working in marketing and retail, I wanted to learn something new and break out of my comfort zone. Being a software developer combines all my passions: constantly learning, always challenging myself, designing useful products, and working with people. I would love to work in a supportive environment where I can add value and push myself to the next level.
 [Portfolio here](https://julie-cheng.herokuapp.com/)
 
 ## Projects
